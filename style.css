@@ -1,11 +1,14 @@
 body {
-  background-color: green;
+  font: "Pristina Regular";
+  text-align: center;
+  color: white;
+  background-color: black;
 }
 
 a:link{
-  color: pink;
+  color: purple;
 }
 
 a:hover{
-  color: purple;
+  color: #00CCCC;
 }
