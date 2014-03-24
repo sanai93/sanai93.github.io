@@ -16,8 +16,8 @@ a:hover{
 
 div.box {
   width:200px;
-  padding:100px white;
-  border:50px red;
+  padding:100px;
+  border:50px solid gray;
   margin:50px;
 }
 
