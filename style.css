@@ -15,9 +15,9 @@ a:hover{
 }
 
 div.box {
-  width:700px;
+  width:800px;
   padding:100px;
-  border:50px solid white;
+  border:20px solid white;
   margin:50px;
 }
 
